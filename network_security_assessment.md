@@ -1,6 +1,6 @@
 Network Security Assessment Report
 
-Submitted by: Kanya PerumalRaj  
+Submitted by: Kanyalaksmi P  
 Date: August 3, 2025  
 Tools Used: Nmap, Wireshark  
 Objective: To identify potential vulnerabilities in a test network using scanning and packet analysis techniques.
@@ -37,3 +37,4 @@ Wireshark:
 Command Used:
 ```bash
 nmap -sV -O -A 192.168.0.105 -oN nmap_results.txt
+
